@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/V12.5.6.0.RFACNXM/miui_CEPHEUS_V12.5.6.0.RFACNXM_5d1239a6d1_11.0.zip
-  ROM_NAME: Generic
+  ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
@@ -59,7 +59,4 @@ jobs:
          run: |
               cd $GITHUB_WORKSPACE/ErfanGSIs/output
               curl -sL https://git.io/file-transfer | sh
-              ./transfer gof ./final/GSI.zip
-
-         
-            
+              ./transfer wet ./final/GSI.zip
