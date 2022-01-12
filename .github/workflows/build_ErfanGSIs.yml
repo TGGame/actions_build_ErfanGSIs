@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.1.0.RFAEUXM/miui_CEPHEUSEEAGlobal_V12.5.1.0.RFAEUXM_64d22ba46c_11.0.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s/8.20.6.30/cn_beta/20210126213641/6a8ed1eb/update.zip
   ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
