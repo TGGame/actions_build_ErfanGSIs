@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s/8.20.6.30/cn_beta/20210126213641/6a8ed1eb/update.zip
+  ROM_URL: https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1936_A_9.16.3-update-full_1634720464.zip
   ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
